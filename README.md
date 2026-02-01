@@ -7,7 +7,7 @@
     
 </head>
 <body>
-	Pronto informaremos en detalle
+	¡Pronto informaremos en detalle!
 	Que tengas un excelente día ✨
     
 </body>
