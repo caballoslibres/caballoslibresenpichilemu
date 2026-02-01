@@ -7,8 +7,7 @@
     <title>Embedding Audio into an HTML Page</title>
 </head>
 <body>
-	<audio controls="controls" src="http://giss.tv:8001/guerrillaradio.ogg">
-        Your browser does not support the HTML5 audio element.
+	Pronto informaremos en detalle
     </audio>
 </body>
 </html> 
