@@ -8,7 +8,7 @@
 </head>
 <body>
 	Pronto informaremos en detalle
-    </audio>
+    
 </body>
 </html> 
 
